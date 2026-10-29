@@ -41,7 +41,7 @@ n8n · AI Agents · LLM Integrations · Workflow Automation
 
 ### Connect
 
-- LinkedIn: [https://www.linkedin.com/in/enzgl/]
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/enzgl/)
 - Website: [lanzilabs.dev](https://lanzilabs.dev)
 - Nimbus: [devnimbus.com.br](https://devnimbus.com.br)
 
