@@ -1,27 +1,50 @@
-# hey, i'm Enzo Lanzi.
+# Enzo Lanzi
 
-**Computer Science student · IT Technician**
+Software Developer · Tech Entrepreneur
 
-I like building things, solving problems and figuring out how stuff works.
+Founder @ Lanzi Labs · Co-founder @ Nimbus
 
-Currently studying **Computer Science**, while exploring software development, automation and everything in between.
+I build software, digital products, and automation solutions that solve real business problems.
 
-### currently
+My work focuses on full-stack development, SaaS platforms, AI integrations, and scalable systems. I'm particularly interested in turning ideas into practical products and building technology-driven businesses.
 
-* 🎓 Computer Science
-* 💻 IT Technician
-* 🛠️ Building personal projects
-* 📚 Learning something new every day
+### What I'm working on
 
-### stack
+- Nimbus — Software development, AI agents, and business automation.
+- Lanzi Labs — Technology ventures, experimentation, and digital products.
+- Oficina OK — SaaS platform for automotive workshop management.
+- Turno — Digital solutions for business operations and customer engagement.
 
-`Python` · `C#` · `JavaScript` · `HTML` · `CSS` · `SQL`
+### Tech stack
 
-### a little more
+**Languages**
 
-I don't have everything figured out yet.
-I'm just building, breaking, fixing and learning along the way.
+TypeScript · JavaScript · Python · C# · SQL · PHP
 
-<br>
+**Frontend**
 
-*building things quietly.*
+React · Next.js · HTML · CSS · Tailwind CSS
+
+**Backend & Infrastructure**
+
+Node.js · Supabase · PostgreSQL · Cloudflare · Vercel
+
+**Automation & AI**
+
+n8n · AI Agents · LLM Integrations · Workflow Automation
+
+### Background
+
+- Computer Science undergraduate
+- IT Technician — SENAC
+- Interested in software engineering, entrepreneurship, and AI-driven products
+
+### Connect
+
+- LinkedIn: [https://www.linkedin.com/in/enzgl/]
+- Website: [lanzilabs.dev](https://lanzilabs.dev)
+- Nimbus: [devnimbus.com.br](https://devnimbus.com.br)
+
+---
+
+*Building useful software. Creating businesses around it.*
